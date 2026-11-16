@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hlayisane Nonyana, Application Developer, Data and AI">
+  <title>Hlayisane Nonyana · Application Developer · Data &amp; AI</title>
+  <style>
+    .mono { font-family: 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .pulse.d2 { animation-delay: .8s; } .pulse.d3 { animation-delay: 1.6s; }
+    @keyframes pulse { 0%,100% { opacity: .45; transform: scale(1); } 50% { opacity: 1; transform: scale(1.35); } }
+    .bar { animation: grow 2.8s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: bottom; }
+    .bar.b2 { animation-delay: .5s; } .bar.b3 { animation-delay: 1s; } .bar.b4 { animation-delay: 1.5s; }
+    @keyframes grow { from { transform: scaleY(.55); } to { transform: scaleY(1); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .flow { stroke-dasharray: 6 10; animation: flow 3s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -64; } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .bar, .cursor, .flow { animation: none; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#5A2050"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#4A1640"/>
+      <stop offset="1" stop-color="#22091D"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+
+    <!-- left: circuit lines and a code bracket -->
+    <path d="M0 70 H70 V120 H150" fill="none" stroke="#C7488F" stroke-width="3"/>
+    <path d="M0 70 H70 V120 H150" fill="none" stroke="#FF6FAE" stroke-width="3" class="flow"/>
+    <circle cx="150" cy="120" r="7" fill="#FF6FAE" class="pulse"/>
+    <path d="M0 250 H90 V200 H170" fill="none" stroke="#C7488F" stroke-width="3"/>
+    <circle cx="170" cy="200" r="7" fill="#FFC2DC" class="pulse d2"/>
+    <text x="70" y="300" class="mono" font-size="40" font-weight="700" fill="#C7488F">&lt;/&gt;</text>
+
+    <!-- right: a small live bar chart and circuit -->
+    <path d="M1200 60 H1120 V110 H1050" fill="none" stroke="#C7488F" stroke-width="3"/>
+    <path d="M1200 60 H1120 V110 H1050" fill="none" stroke="#FF6FAE" stroke-width="3" class="flow"/>
+    <circle cx="1050" cy="110" r="7" fill="#FF6FAE" class="pulse d3"/>
+    <g transform="translate(1030 190)">
+      <rect x="0" y="50" width="22" height="60" rx="5" fill="#C7488F" class="bar"/>
+      <rect x="32" y="20" width="22" height="90" rx="5" fill="#FFC2DC" class="bar b2"/>
+      <rect x="64" y="0" width="22" height="110" rx="5" fill="#FF6FAE" class="bar b3"/>
+      <rect x="96" y="35" width="22" height="75" rx="5" fill="#C7488F" class="bar b4"/>
+    </g>
+
+    <!-- centre text -->
+    <text x="600" y="92" text-anchor="middle" class="mono" font-size="22" letter-spacing="4" fill="#FF6FAE">&lt;hello world /&gt;</text>
+    <text x="600" y="168" text-anchor="middle" class="sans" font-size="64" font-weight="800" fill="#FFFFFF">Hlayisane <tspan fill="#FF6FAE">Nonyana</tspan></text>
+    <rect x="510" y="188" width="180" height="6" rx="3" fill="#FF6FAE"/>
+    <text x="600" y="238" text-anchor="middle" class="sans" font-size="26" font-weight="600" fill="#FFE6F1">Application Developer · Data &amp; AI · Power Platform</text>
+    <text x="600" y="282" text-anchor="middle" class="mono" font-size="17" fill="#E7A8C8">BSc IT (NWU) · BSc Hons Computing (UNISA) · Johannesburg, ZA<tspan class="cursor" fill="#FF6FAE"> ▍</tspan></text>
+  </g>
+</svg>
