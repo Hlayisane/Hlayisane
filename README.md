@@ -18,7 +18,7 @@
 
 <img src="assets/avatar.png" alt="Anime-style avatar of Hlayisane wearing headphones" width="210" align="right">
 
-Avuxeni! I'm **Hlayisane**, a developer from Pretoria who loves building apps and making data useful.
+Hello! I'm **Hlayisane**, a developer from Pretoria who loves building apps and making data useful.
 
 - 💼 **Digitalisation & IT Graduate** in the automotive industry, building apps, automations, dashboards and AI agents
 - 🎓 **BSc IT** from North-West University, now completing a **BSc Honours in Computing** at UNISA
