@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-FF6FAE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hlayisane-nonyana-09a421232/"><img src="https://img.shields.io/badge/LinkedIn-FF6FAE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-C7488F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Tumie074/MatchMade"><img src="https://img.shields.io/badge/Match_Made-5A2050?style=for-the-badge&logo=github&logoColor=white" alt="Match Made"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF6FAE&center=true&vCenter=true&width=620&lines=I+build+apps+that+solve+real+problems.;I+turn+messy+data+into+dashboards.;I+build+AI+agents+on+Databricks.;Currently+co-building+Match+Made." alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF6FAE&center=true&vCenter=true&width=620&lines=I+build+apps+that+solve+real+problems.;I+turn+messy+data+into+dashboards.;I+build+AI+agents+on+Databricks." alt="Typing introduction">
 </p>
 
 ---
@@ -18,7 +17,7 @@
 
 <img src="assets/avatar.png" alt="Anime-style avatar of Hlayisane wearing headphones" width="210" align="right">
 
-Hello! I'm **Hlayisane**, a developer from Pretoria who loves building apps and making data useful.
+Hi! I'm **Hlayisane**, a developer based in Johannesburg who loves building apps and making data useful.
 
 - 💼 **Digitalisation & IT Graduate** in the automotive industry, building apps, automations, dashboards and AI agents
 - 🎓 **BSc IT** from North-West University, now completing a **BSc Honours in Computing** at UNISA
@@ -72,8 +71,9 @@ Hello! I'm **Hlayisane**, a developer from Pretoria who loves building apps and 
 
 ## 🤝 Let's connect
 
-I'm open to collaborating on apps, data and AI projects, and always up for a hackathon. Say hi on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)! 💕
+I'm open to collaborating on apps, data and AI projects, and always up for a hackathon. Say hi on [LinkedIn](https://www.linkedin.com/in/hlayisane-nonyana-09a421232/)! 💕
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7488F,100:FF6FAE&height=110&section=footer" alt="" width="100%">
 </p>
+
