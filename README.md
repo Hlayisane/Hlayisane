@@ -54,21 +54,6 @@ Hi! I'm **Hlayisane**, a developer based in Johannesburg who loves building apps
   <img src="https://img.shields.io/badge/Agile_%26_Scrum-5A2050?style=flat-square&logo=jira&logoColor=white" alt="Agile and Scrum">
 </p>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A0717&title_color=FF6FAE&text_color=FFE6F1&icon_color=FF6FAE&ring_color=FF6FAE&border_color=5A2050&border_radius=12" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&bg_color=1A0717&title_color=FF6FAE&text_color=FFE6F1&border_color=5A2050&border_radius=12" alt="Most used languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=1A0717&border=5A2050&stroke=5A2050&ring=FF6FAE&fire=FF6FAE&currStreakNum=FFFFFF&sideNums=FFE6F1&currStreakLabel=FF6FAE&sideLabels=E7A8C8&dates=E7A8C8" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1A0717&color=FFE6F1&line=FF6FAE&point=FFC2DC&area=true&area_color=FF6FAE&hide_border=true&radius=12" alt="Contribution graph" width="100%">
-</p>
-
 ## 🤝 Let's connect
 
 I'm open to collaborating on apps, data and AI projects, and always up for a hackathon. Say hi on [LinkedIn](https://www.linkedin.com/in/hlayisane-nonyana-09a421232/)! 💕
@@ -76,4 +61,3 @@ I'm open to collaborating on apps, data and AI projects, and always up for a hac
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7488F,100:FF6FAE&height=110&section=footer" alt="" width="100%">
 </p>
-
