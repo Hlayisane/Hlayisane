@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="70" viewBox="0 0 900 70" role="img" aria-label="What I&#39;m working on">
+<title>What I&#39;m working on</title><style>.sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace}
+.f1{animation:float 6s ease-in-out infinite}.f2{animation:float 7s ease-in-out infinite;animation-delay:-2s}.f3{animation:float 5s ease-in-out infinite;animation-delay:-3s}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.tw{animation:tw 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.tw2{animation:tw 2.6s ease-in-out infinite;animation-delay:-1.3s;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.3;transform:scale(.7)}50%{opacity:1;transform:scale(1.1)}}
+.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.spin{animation:spin 16s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><defs><clipPath id="card"><rect width="900" height="70" rx="24"/></clipPath></defs>
+<g clip-path="url(#card)"><rect width="900" height="70" fill="#2A1520"/><rect x="0" y="0" width="6" height="70" fill="#FF2E63"/>
+<text x="28" y="45" class="mono" font-size="16" fill="#FF2E63">//</text>
+<text x="58" y="47" class="sans" font-size="28" font-weight="900" letter-spacing="3" fill="#FFFFFF">WHAT I&#39;M WORKING ON</text>
+<path d="M576 36 H860" stroke="#FF2E63" stroke-width="2" stroke-dasharray="2 8"/><rect x="860" y="30" width="12" height="12" fill="#FF2E63" class="pulse"/></g></svg>

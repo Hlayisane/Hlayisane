@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Footer">
+<title>Footer</title><style>.sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace}
+.f1{animation:float 6s ease-in-out infinite}.f2{animation:float 7s ease-in-out infinite;animation-delay:-2s}.f3{animation:float 5s ease-in-out infinite;animation-delay:-3s}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.tw{animation:tw 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.tw2{animation:tw 2.6s ease-in-out infinite;animation-delay:-1.3s;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.3;transform:scale(.7)}50%{opacity:1;transform:scale(1.1)}}
+.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.spin{animation:spin 16s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><defs><clipPath id="card"><rect width="1200" height="110" rx="24"/></clipPath></defs>
+<g clip-path="url(#card)"><rect width="1200" height="110" fill="none"/>
+<path d="M0 40 C200 0 400 80 600 40 S1000 0 1200 40 V110 H0 Z" fill="#FF2E63" opacity=".5"/>
+<path d="M0 60 C250 20 450 100 650 60 S1000 30 1200 60 V110 H0 Z" fill="#7A0A2C"/>
+<text x="600" y="96" text-anchor="middle" class="mono" font-size="15" fill="#FFE3F0">made with 💖 in Johannesburg</text></g></svg>

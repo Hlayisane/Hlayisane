@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="Hlayisane Nonyana, Application Developer, Data and AI">
+<title>Hlayisane Nonyana, Application Developer, Data and AI</title><style>.sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace}
+.f1{animation:float 6s ease-in-out infinite}.f2{animation:float 7s ease-in-out infinite;animation-delay:-2s}.f3{animation:float 5s ease-in-out infinite;animation-delay:-3s}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+.tw{animation:tw 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.tw2{animation:tw 2.6s ease-in-out infinite;animation-delay:-1.3s;transform-box:fill-box;transform-origin:center}
+@keyframes tw{0%,100%{opacity:.3;transform:scale(.7)}50%{opacity:1;transform:scale(1.1)}}
+.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.spin{animation:spin 16s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style><defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter><filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter><radialGradient id="iris" cx="50%" cy="60%" r="60%"><stop offset="0" stop-color="#8A5A34"/><stop offset="1" stop-color="#2E1A0E"/></radialGradient>
+<linearGradient id="hairg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2A1B1B"/><stop offset="1" stop-color="#140C0C"/></linearGradient><linearGradient id="visor" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2E88"/><stop offset=".5" stop-color="#B0125B"/><stop offset="1" stop-color="#FF2E88"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#33192A" stroke-width="1"/></pattern>
+<radialGradient id="vig" cx="50%" cy="50%" r="70%"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".45"/></radialGradient>
+<linearGradient id="bigtxt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBE3EE"/><stop offset="1" stop-color="#E7A6C4"/></linearGradient>
+<filter id="neon" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#FF2E88" flood-opacity=".7"/></filter><clipPath id="card"><rect width="1200" height="520" rx="24"/></clipPath></defs>
+<g clip-path="url(#card)"><rect width="1200" height="520" fill="#24121C"/><rect width="1200" height="520" fill="url(#grid)"/>
+<rect x="0" y="0" width="1200" height="520" fill="url(#vig)"/>
+<!-- nav -->
+<path d="M44 34 L58 48 M58 34 L44 48" stroke="#FF2E88" stroke-width="4" stroke-linecap="round"/>
+<text x="70" y="47" class="sans" font-size="14" font-weight="900" letter-spacing="2" fill="#FFFFFF">HLAYISANE</text>
+<rect x="752" y="28" width="62" height="24" rx="12" fill="#FF2E88" fill-opacity=".2" stroke="#FF2E88" stroke-opacity=".6"/>
+<text x="783" y="44" text-anchor="middle" class="sans" font-size="11" font-weight="800" letter-spacing="1" fill="#FFFFFF">HOME</text>
+<text x="830" y="44" class="sans" font-size="11" font-weight="700" letter-spacing="1.2" fill="#C9AFBD" xml:space="preserve">ABOUT   PROJECTS   SKILLS</text>
+<rect x="1050" y="26" width="104" height="28" rx="8" fill="#FF2E88"/><text x="1102" y="45" text-anchor="middle" class="sans" font-size="12" font-weight="900" letter-spacing="1.5" fill="#FFFFFF">HIRE ME ↗</text>
+<!-- sidebar -->
+<path d="M24 80 V470" stroke="#4A2236" stroke-width="1.5"/><circle cx="24" cy="100" r="4" fill="#FF2E88"/><rect x="19" y="185" width="10" height="10" rx="2" fill="none" stroke="#B79AAA" stroke-width="1.5"/><rect x="19" y="225" width="10" height="10" rx="2" fill="none" stroke="#B79AAA" stroke-width="1.5"/><rect x="19" y="265" width="10" height="10" rx="2" fill="none" stroke="#B79AAA" stroke-width="1.5"/><rect x="19" y="305" width="10" height="10" rx="2" fill="none" stroke="#B79AAA" stroke-width="1.5"/>
+<!-- big word -->
+<text x="70" y="96" class="sans" font-size="11" font-weight="700" letter-spacing="2.5" fill="#B79AAA">ENTER THE NEXT BUILD</text>
+<text x="1130" y="96" text-anchor="end" class="sans" font-size="11" font-weight="700" letter-spacing="2.5" fill="#B79AAA">STATUS: <tspan fill="#FF2E88">OPEN TO BUILD</tspan><tspan class="cursor" fill="#FF2E88"> █</tspan></text>
+<text x="600" y="262" text-anchor="middle" class="sans" font-size="190" font-weight="900" textLength="1060" lengthAdjust="spacingAndGlyphs" fill="url(#bigtxt)">DEVELOPER</text>
+<rect x="70" y="250" width="1060" height="3" fill="#24121C" opacity=".35"/><rect x="70" y="180" width="1060" height="2" fill="#24121C" opacity=".3"/>
+<!-- glow + figure -->
+<ellipse cx="600" cy="300" rx="190" ry="210" fill="#FF2E88" opacity=".35" filter="url(#glow)"/>
+<!-- bottom panel (behind figure) -->
+<rect x="56" y="420" width="1088" height="80" rx="18" fill="#2E1724" fill-opacity=".85" stroke="#5A2A44"/>
+<circle cx="104" cy="460" r="26" fill="none" stroke="#4A2236" stroke-width="5"/><circle cx="104" cy="460" r="26" fill="none" stroke="#FF2E88" stroke-width="5" stroke-dasharray="120 200" transform="rotate(-90 104 460)"/><circle cx="104" cy="460" r="12" fill="#FF2E88" opacity=".5" class="pulse"/><text x="148" y="464" class="sans" font-size="22" font-weight="900" fill="#FF2E88">TOP 10</text><text x="148" y="484" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.3" fill="#B79AAA">GIRL CODE HACKATHON</text><text x="320" y="464" class="sans" font-size="22" font-weight="900" fill="#FF2E88">84%</text><text x="320" y="484" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.3" fill="#B79AAA">C# TOP 10 ACHIEVER</text>
+<text x="760" y="464" class="sans" font-size="19" font-weight="900" fill="#FF2E88">GOLDEN KEY</text><text x="760" y="484" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.3" fill="#B79AAA">HONOUR SOCIETY</text><text x="925" y="464" class="sans" font-size="19" font-weight="900" fill="#FF2E88">BSc HONS</text><text x="925" y="484" class="sans" font-size="10.5" font-weight="700" letter-spacing="1.3" fill="#B79AAA">COMPUTING · UNISA</text>
+<circle cx="1094" cy="460" r="24" fill="none" stroke="#FF2E88" stroke-width="2"/><circle cx="1094" cy="460" r="30" fill="none" stroke="#FF2E88" stroke-opacity=".35" stroke-width="2" class="pulse"/><path d="M1084 460 H1104 M1096 452 L1104 460 L1096 468" stroke="#FFFFFF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<g class="f1" filter="url(#neon)"><g transform="translate(339 4) scale(.51)"><path d="M300 430 Q285 230 512 185 Q739 230 724 430 L772 930 L252 930 Z" fill="url(#hairg)"/><path d="M462 600 L562 600 L568 735 L456 735 Z" fill="#5A321E"/><path d="M230 1024 Q240 770 512 735 Q784 770 794 1024 Z" fill="#1A1220"/>
+<path d="M440 742 L512 900 L584 742 Q512 760 440 742 Z" fill="#FFE6F1"/>
+<path d="M472 744 L512 812 L552 744 Q512 754 472 744 Z" fill="#5A321E"/>
+<path d="M444 740 L500 800 L420 792 Z" fill="#FFFFFF"/><path d="M580 740 L524 800 L604 792 Z" fill="#FFFFFF"/>
+<path d="M420 760 L500 1024" stroke="#0E0E12" stroke-width="6"/><path d="M604 760 L524 1024" stroke="#0E0E12" stroke-width="6"/><path d="M300 900 L360 860 L360 820" stroke="#FF2E88" stroke-width="5" fill="none" opacity=".9"/><circle cx="360" cy="815" r="8" fill="#FF2E88"/><path d="M724 900 L664 860 L664 830" stroke="#FF2E88" stroke-width="5" fill="none" opacity=".9"/><circle cx="664" cy="825" r="8" fill="#FF2E88"/><path d="M372 420 Q370 590 512 662 Q654 590 652 420 Q650 300 512 290 Q374 300 372 420 Z" fill="#6B3E26"/><ellipse cx="428" cy="568" rx="28" ry="12" fill="#C2665E" opacity="0.5"/><ellipse cx="596" cy="568" rx="28" ry="12" fill="#C2665E" opacity="0.5"/><path d="M510 540 Q506 552 514 556" fill="none" stroke="#4A2A18" stroke-width="4" stroke-linecap="round"/><path d="M482 592 Q512 618 542 592 Q512 604 482 592 Z" fill="#3A1A10"/><path d="M370 440 Q356 262 512 244 Q668 262 654 440 Q644 336 512 318 Q380 336 370 440 Z" fill="url(#hairg)"/>
+<path d="M512 246 L512 318" stroke="#5A321E" stroke-width="5" stroke-linecap="round"/>
+<path d="M376 380 Q336 570 352 880 L312 880 Q300 560 340 380 Z" fill="url(#hairg)"/><path d="M648 380 Q688 570 672 880 L712 880 Q724 560 684 380 Z" fill="url(#hairg)"/>
+<path d="M440 270 Q470 256 500 254" fill="none" stroke="#4E3A3A" stroke-width="7" stroke-linecap="round"/><path d="M524 254 Q554 256 584 270" fill="none" stroke="#4E3A3A" stroke-width="7" stroke-linecap="round"/><path d="M372 230 L318 30 Q312 8 332 18 L444 170 Z" fill="#FF2E88" fill-opacity=".35" stroke="#FF2E88" stroke-width="10" stroke-linejoin="round"/>
+<path d="M652 230 L706 30 Q712 8 692 18 L580 170 Z" fill="#FF2E88" fill-opacity=".35" stroke="#FF2E88" stroke-width="10" stroke-linejoin="round"/>
+<path d="M360 190 L330 60 L410 160 Z" fill="#FFC2DC" opacity=".55"/><path d="M664 190 L694 60 L614 160 Z" fill="#FFC2DC" opacity=".55"/><path d="M332 470 Q322 168 512 160 Q702 168 692 470" fill="none" stroke="#FF2E88" stroke-width="34" stroke-linecap="round"/>
+<rect x="296" y="420" width="76" height="130" rx="34" fill="#FF2E88"/><rect x="308" y="434" width="52" height="102" rx="26" fill="#FFC2DC"/>
+<rect x="652" y="420" width="76" height="130" rx="34" fill="#FF2E88"/><rect x="664" y="434" width="52" height="102" rx="26" fill="#FFC2DC"/><rect x="384" y="446" width="256" height="84" rx="30" fill="url(#visor)" stroke="#FF2E88" stroke-width="6"/>
+<rect x="400" y="458" width="224" height="16" rx="8" fill="#FFFFFF" opacity=".28"/>
+<path d="M470 488 L494 512 M494 488 L470 512" stroke="#FFE3F0" stroke-width="6" stroke-linecap="round"/>
+<path d="M512 500 H600" stroke="#FFE3F0" stroke-width="5" stroke-linecap="round" opacity=".8" class="pulse"/></g></g>
+<!-- left / right copy -->
+<text x="70" y="318" class="sans" font-size="22" font-weight="800" letter-spacing="3" fill="#FF2E88">HLAYISANE NONYANA</text>
+<text x="70" y="344" class="sans" font-size="12.5" fill="#C9AFBD">Application developer building apps,</text>
+<text x="70" y="362" class="sans" font-size="12.5" fill="#C9AFBD">dashboards and AI agents.</text>
+<rect x="70" y="378" width="140" height="30" rx="6" fill="none" stroke="#C9AFBD" stroke-opacity=".6"/><text x="140" y="398" text-anchor="middle" class="sans" font-size="11" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">VIEW PROJECTS ↗</text>
+<text x="1130" y="318" text-anchor="end" class="sans" font-size="22" font-weight="800" letter-spacing="3" fill="#FF2E88">THE FUTURE</text>
+<text x="1130" y="344" text-anchor="end" class="sans" font-size="12.5" fill="#C9AFBD">Apps · Data · AI, built in</text>
+<text x="1130" y="362" text-anchor="end" class="sans" font-size="12.5" fill="#C9AFBD">Johannesburg, South Africa.</text>
+<rect x="990" y="378" width="140" height="30" rx="6" fill="none" stroke="#FF2E88" stroke-opacity=".8"/><text x="1060" y="398" text-anchor="middle" class="sans" font-size="11" font-weight="800" letter-spacing="1.5" fill="#FFFFFF">LET'S CONNECT ↗</text>
+<!-- corners -->
+<path d="M14 120 V14 H120" fill="none" stroke="#FF2E88" stroke-width="2" opacity=".6"/><path d="M1186 400 V506 H1080" fill="none" stroke="#FF2E88" stroke-width="2" opacity=".6"/></g></svg>
