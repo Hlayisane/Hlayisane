@@ -1,21 +1,17 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Hlayisane Nonyana, Application Developer, Data and AI" width="100%">
+  <img src="assets/hero.svg" alt="Hlayisane Nonyana, Application Developer, Data and AI" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hlayisane-nonyana-09a421232/"><img src="https://img.shields.io/badge/LinkedIn-FF6FAE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-C7488F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hlayisane-nonyana-09a421232/"><img src="https://img.shields.io/badge/LinkedIn-FF2E88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hlayisanenonyana@gmail.com"><img src="https://img.shields.io/badge/Email-B0125B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF6FAE&center=true&vCenter=true&width=620&lines=I+build+apps+that+solve+real+problems.;I+turn+messy+data+into+dashboards.;I+build+AI+agents+on+Databricks." alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF2E88&center=true&vCenter=true&width=620&lines=I+build+apps+that+solve+real+problems.;I+turn+messy+data+into+dashboards.;I+build+AI+agents+on+Databricks." alt="Typing introduction">
 </p>
 
----
-
-## 🌸 About me
-
-<img src="assets/avatar.png" alt="Anime-style avatar of Hlayisane wearing headphones" width="210" align="right">
+<img src="assets/about.svg" alt="About me" width="100%">
 
 Hi! I'm **Hlayisane**, a developer based in Johannesburg who loves building apps and making data useful.
 
@@ -26,9 +22,7 @@ Hi! I'm **Hlayisane**, a developer based in Johannesburg who loves building apps
 - 🌱 Learning more about software engineering, machine learning and cloud data engineering
 - ⚡ Fun fact: I love hackathons. Give me a problem and a deadline and I'll build something!
 
-<br clear="right">
-
-## 🚀 What I'm working on
+<img src="assets/working.svg" alt="What I'm working on" width="100%">
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -36,28 +30,14 @@ Hi! I'm **Hlayisane**, a developer based in Johannesburg who loves building apps
 | **StudentDev Hub** | A full-stack learning platform with career tracks, coding challenges and GitHub progress tracking | React, Node.js, Express, MongoDB |
 | **Real-time BI system** | Sales analytics with real-time payment streaming and interactive dashboards | MongoDB, Apache Kafka, Power BI |
 
-## 🧰 Tech stack
+<img src="assets/stack.svg" alt="Tech stack" width="100%">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,py,js,html,css,react,nodejs,express,mongodb,mysql,azure,aws,kafka,git,github,vscode,visualstudio&perline=10" alt="Tech stack icons">
+  <img src="assets/stack-icons.svg" alt="Tech stack: C#, .NET, Java, C++, Python, JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, MySQL, Azure, AWS, Kafka, Spark, Oracle SQL, Git, GitHub, VS Code, Visual Studio, Power BI, Power Apps, Power Automate, Databricks, SharePoint, AI Agents, Agile and Scrum" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white" alt="Power Apps">
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/AI_Agents-FF6FAE?style=flat-square&logo=openai&logoColor=white" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Agile_%26_Scrum-5A2050?style=flat-square&logo=jira&logoColor=white" alt="Agile and Scrum">
-</p>
-
-## 🤝 Let's connect
+<img src="assets/connect.svg" alt="Let's connect" width="100%">
 
 I'm open to collaborating on apps, data and AI projects, and always up for a hackathon. Say hi on [LinkedIn](https://www.linkedin.com/in/hlayisane-nonyana-09a421232/)! 💕
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7488F,100:FF6FAE&height=110&section=footer" alt="" width="100%">
-</p>
+<img src="assets/footer.svg" alt="" width="100%">
